@@ -63,7 +63,9 @@ for (let i = 0; i < allJobs.length; i++) {
     allJobs[i].desc = jd;
 
     console.log(allJobs[i]);
-  } catch (e) {}
+  } catch (e) {
+    console.log('🚀 ~ e:', e);
+  }
 }
 const result = handleData(allJobs);
 

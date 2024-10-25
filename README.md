@@ -33,4 +33,4 @@ node ./index.js
 
 ## 爬虫结果
 
-- output 文件下，回根据配置和当前日期生成对应的 json 文件。
+- output 文件下，回根据配置和当前日期生成对应的 json 和 html 文件。
